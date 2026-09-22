@@ -1,8 +1,9 @@
 # Emoji Merge Privacy Policy
 
-Effective date: September 22, 2026
+**Developer:** Waycan Tech Ltd.  
+**Effective date:** September 22, 2026
 
-This Privacy Policy explains how Emoji Merge ("we," "our," or "us") handles information when you use our mobile game application (the "App").
+This Privacy Policy explains how Waycan Tech Ltd. ("we," "our," or "us") handles information when you use Emoji Merge, our mobile game application (the "App").
 
 ## 1. Summary
 
@@ -51,9 +52,9 @@ On iOS, the App may ask for permission through Apple's App Tracking Transparency
 
 Google may act as an independent data controller for some of this information. Please see:
 
-- Google Privacy Policy: https://policies.google.com/privacy
-- Google Ad Settings: https://adssettings.google.com
-- Google AdMob information: https://support.google.com/admob
+- [Google Privacy Policy](https://policies.google.com/privacy)
+- [Google Ad Settings](https://adssettings.google.com)
+- [Google AdMob information](https://support.google.com/admob)
 
 ## 5. What we do not do
 
@@ -89,8 +90,5 @@ We may update this Privacy Policy if the App changes or if legal requirements ch
 
 If you have questions, concerns, or requests about this Privacy Policy or the App, contact:
 
-ehiedujoy277@gmail.com
-
-
-
-This privacy policy covers the App and its ad delivery. If you are preparing a public Play Store listing, this text can be published as a public repository file or website page.
+**Waycan Tech Ltd.**  
+Email: [ehiedujoy277@gmail.com](mailto:ehiedujoy277@gmail.com)

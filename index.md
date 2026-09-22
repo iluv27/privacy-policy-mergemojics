@@ -1,139 +1,108 @@
-# Privacy Policy for Emoji Merge Puzzle Game
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Emoji Merge Privacy Policy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+      line-height: 1.6;
+      color: #222;
+    }
+    h1, h2 {
+      color: #111;
+    }
+    a {
+      color: #0057cc;
+    }
+    ul {
+      padding-left: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Emoji Merge Privacy Policy</h1>
 
-**Effective Date:** 02/09/2025  
-**Last Updated:** 05/09/2025
+  <p><strong>Developer:</strong> Waycan Tech Ltd.<br>
+  <strong>Effective date:</strong> September 22, 2026</p>
 
-## 1. Introduction
+  <p>This Privacy Policy explains how Waycan Tech Ltd. ("we," "our," or "us") handles information when you use Emoji Merge, our mobile game application (the "App").</p>
 
-This Privacy Policy describes how Buildclaw collects, uses, and protects information when you use our mobile application "Emoji Merge Puzzle Game".
+  <h2>1. Summary</h2>
+  <p>Emoji Merge is designed to work without creating an account. We do not require your name, email address, phone number, or other personal identity information to play the game.</p>
+  <p>We do not collect or store your gameplay data on our servers. Your game progress and settings are stored only on your device.</p>
+  <p>The App displays ads through Google AdMob. AdMob may use device identifiers to deliver and measure ads, and may personalize ads where permitted by applicable law and device settings.</p>
 
-By downloading, installing, or using our Game, you agree to the collection and use of information in accordance with this Privacy Policy.
+  <h2>2. Information we do not collect directly</h2>
+  <ul>
+    <li>Full name</li>
+    <li>Email address</li>
+    <li>Phone number</li>
+    <li>Contact list</li>
+    <li>Social media accounts</li>
+    <li>Photos, videos, or microphone/camera data</li>
+    <li>Exact location data</li>
+  </ul>
 
-## 2. Information We Collect
+  <h2>3. Information stored on your device</h2>
+  <p>The App may store the following locally on your device:</p>
+  <ul>
+    <li>Current board state</li>
+    <li>Score and level progress</li>
+    <li>Best score</li>
+    <li>Sound and other local settings</li>
+  </ul>
+  <p>This information is stored using the device's local storage and remains on the device unless you uninstall the App or clear app data. This information is not transmitted to us.</p>
 
-### 2.1 Information You Provide
-- **Game Progress Data**: Your game scores, levels completed, and game preferences are stored locally on your device
-- **No Personal Information**: We do not require you to create accounts or provide personal information such as name, email, or phone number
+  <h2>4. Advertising and third-party data collection</h2>
+  <p>Emoji Merge uses Google AdMob to serve advertisements. AdMob and Google may collect and process information necessary to provide, measure, and improve ad delivery, including:</p>
+  <ul>
+    <li>Advertising ID or similar device identifier</li>
+    <li>Device type and operating system version</li>
+    <li>App and ad interaction data, such as impressions and clicks</li>
+    <li>Network information, including IP address</li>
+    <li>General or coarse location data, where available and permitted</li>
+  </ul>
+  <p>This data is used to serve ads, measure ad performance, prevent fraud, and, where permitted, personalize ad content. You can manage ad personalization and reset your advertising ID from your device settings.</p>
+  <p>On iOS, the App may ask for permission through Apple's App Tracking Transparency prompt before using the identifier for personalized ads. On Android, you can manage ad settings in the Google Ads settings screen.</p>
+  <p>Google may act as an independent data controller for some of this information. Please see:</p>
+  <ul>
+    <li><a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Google Privacy Policy</a></li>
+    <li><a href="https://adssettings.google.com" target="_blank" rel="noopener noreferrer">Google Ad Settings</a></li>
+    <li><a href="https://support.google.com/admob" target="_blank" rel="noopener noreferrer">Google AdMob information</a></li>
+  </ul>
 
-### 2.2 Automatically Collected Information
-- **Device Information**: Device model, operating system version, unique device identifiers
-- **App Usage Data**: Time spent in the app, features used, game sessions
-- **Technical Data**: App crashes, performance metrics, and error logs
+  <h2>5. What we do not do</h2>
+  <ul>
+    <li>Sell your personal information</li>
+    <li>Build a profile of you for advertising outside the ad platform used in the App</li>
+    <li>Run our own analytics SDK that tracks your behavior across unrelated apps or websites</li>
+    <li>Request location access, contacts, camera, microphone, or photos</li>
+  </ul>
 
-### 2.3 Third-Party Services
-Our Game uses the following third-party services that may collect information:
+  <h2>6. Children's privacy</h2>
+  <p>Emoji Merge is not directed to children under the age of 13, and we do not knowingly collect personal data from children. Where required by law, including COPPA in the United States, ad treatment may be limited to child-directed settings as configured by Google and applicable platform rules.</p>
+  <p>If you believe a child has provided us with personal information, please contact us and we will delete it promptly.</p>
 
-#### Google AdMob
-- **Purpose**: To display advertisements
-- **Data Collected**: Advertising identifiers, device information, approximate location, app usage data
-- **Privacy Policy**: https://policies.google.com/privacy
+  <h2>7. Your choices and rights</h2>
+  <ul>
+    <li>Disable personalized ads in your device settings</li>
+    <li>Reset the advertising ID in your device settings</li>
+    <li>Delete App data by uninstalling or clearing local app data</li>
+    <li>Contact us to ask questions or request data-related support</li>
+  </ul>
+  <p>If you are in a jurisdiction that gives you privacy rights, you may be able to ask for access, correction, deletion, or restriction of your data where applicable. In this App, most data is stored locally on your device and is not transmitted to us, but you can still contact us with any privacy request.</p>
 
-#### Google Play Services (Android)
-- **Purpose**: App distribution and core functionality
-- **Privacy Policy**: https://policies.google.com/privacy
+  <h2>8. Changes to this policy</h2>
+  <p>We may update this Privacy Policy if the App changes or if legal requirements change. When we make material changes, we will update the effective date above. Continued use of the App after the updated policy becomes effective means you accept the updated policy.</p>
 
-## 3. How We Use Information
-
-We use the collected information for the following purposes:
-
-- **Game Functionality**: To save your game progress and preferences
-- **App Improvement**: To analyze app performance and fix bugs
-- **Advertisements**: To display relevant ads through Google AdMob
-- **Technical Support**: To diagnose and resolve technical issues
-
-## 4. Data Storage and Security
-
-### 4.1 Local Storage
-- Game progress and settings are stored locally on your device using secure storage methods
-- This data is not transmitted to our servers
-
-### 4.2 Security Measures
-- We implement appropriate technical and organizational measures to protect your information
-- However, no method of transmission over the internet is 100% secure
-
-## 5. Third-Party Services and Data Sharing
-
-### 5.1 Google AdMob
-- We use Google AdMob to display advertisements
-- AdMob may collect and use data for ad personalization
-- You can opt out of personalized ads through your device settings
-
-### 5.2 Data Sharing
-- We do not sell, trade, or otherwise transfer your information to third parties
-- Information may be shared only in the following circumstances:
-  - With your explicit consent
-  - To comply with legal obligations
-  - To protect our rights and safety
-
-## 6. Children's Privacy
-
-Our Game is suitable for users of all ages, including children under 13. We take children's privacy seriously:
-
-- **No Personal Data Collection**: We do not knowingly collect personal information from children
-- **COPPA Compliance**: Our practices are designed to comply with the Children's Online Privacy Protection Act (COPPA)
-- **Parental Rights**: Parents can contact us to review, delete, or stop further collection of their child's information
-
-## 7. Your Rights and Choices
-
-### 7.1 Advertising Choices
-- **Personalized Ads**: You can opt out of personalized advertising through your device settings
-- **Android**: Go to Settings > Google > Ads > Opt out of Ads Personalization
-- **iOS**: Go to Settings > Privacy > Apple Advertising > Personalized Ads (turn off)
-
-### 7.2 Data Deletion
-- **Local Data**: You can delete your game data by uninstalling the app
-- **Request Deletion**: Contact us to request deletion of any data we may have collected
-
-## 8. Data Retention
-
-- **Local Game Data**: Retained until you uninstall the app or manually delete it
-- **Analytics Data**: Anonymized usage data may be retained for up to 2 years for app improvement purposes
-- **Advertising Data**: Managed by Google AdMob according to their retention policies
-
-## 9. International Users
-
-Our Game is available globally. If you are using the Game outside your country of residence, please note that your information may be transferred to and processed in countries that may have different privacy laws than your jurisdiction.
-
-## 10. Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time. We will notify you of any changes by:
-- Posting the new Privacy Policy within the app
-- Updating the "Last Updated" date at the top of this Privacy Policy
-- For material changes, we may provide additional notice
-
-## 11. Contact Information
-
-If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us:
-
-**Email:** buildclaw@gmail.com  
-
-## 12. Legal Basis for Processing (GDPR)
-
-For users in the European Economic Area (EEA), we process your data based on:
-
-- **Legitimate Interest**: To provide and improve our Game services
-- **Consent**: For advertising and analytics where required
-- **Contract Performance**: To fulfill our terms of service
-
-## 13. Additional Rights for EEA Users
-
-Under GDPR, you have the following rights:
-- Right to access your personal data
-- Right to rectify inaccurate data
-- Right to erase your data
-- Right to restrict processing
-- Right to data portability
-- Right to object to processing
-- Right to withdraw consent
-
-To exercise these rights, please contact us using the information provided above.
-
-## 14. California Privacy Rights (CCPA)
-
-California residents have the right to:
-- Know what personal information is collected
-- Know if personal information is sold or disclosed
-- Say no to the sale of personal information
-- Access their personal information
-- Request deletion of personal information
-- Equal service and price
+  <h2>9. Contact us</h2>
+  <p>If you have questions, concerns, or requests about this Privacy Policy or the App, contact:</p>
+  <p><strong>Waycan Tech Ltd.</strong><br>
+  Email: <a href="mailto:ehiedujoy277@gmail.com">ehiedujoy277@gmail.com</a></p>
+</body>
+</html>
